@@ -471,3 +471,5 @@ transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 .lsnf:focus{
     background-color: #31d0aa;
 }
+
+.modal-overlay
