@@ -589,10 +589,9 @@ transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 .inputt:focus{
     border-color: #4D5AE5;
 }
-.inputt:focus+
-svgmodal{
+.inputt:focus + .svgmodal{
     fill: #4D5AE5;
-}
+ }
 
 .comment{
     margin-bottom: 16px;
