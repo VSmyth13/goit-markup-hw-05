@@ -517,13 +517,11 @@ transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 .modalbtn:hover{
     border: none;
     background-color: #404bbf;
-    fill: #ffffff;
 }
 
 .modalbtn:focus{
     background-color: #404bbf; 
     border: none; 
-    fill: #ffffff
 }
 
 .svgmodal{
